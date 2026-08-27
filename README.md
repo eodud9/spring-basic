@@ -221,7 +221,7 @@ Token A 삭제
        ↓
 Token B 생성
        ↓
-Token B DB 저장
+Token B DB 저장 
        ↓
 Access Token B
 +
